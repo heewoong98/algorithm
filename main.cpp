@@ -17,5 +17,6 @@ int main(){
 	printf("main.cp");
 	printf("e");
 	printf("f");
+	pritn()
 	return 0;
 }
